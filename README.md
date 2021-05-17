@@ -10,6 +10,8 @@ It is heavily inspired by the likes of Fire Emblem and Advance Wars, but is by n
 
 It is my hope that with this (admittedly ambitious) project that I can bring my life-long dream of developing video games to reality, while simultaneously having a project I can present to potential employers to show that I am worth hiring. I believe that the end result will take years to accomplish, however I intend on sticking with it to the end.
 
+See the "Idea Whiteboard" folder for some of my ideas and plans so far
+
 ## Technologies Used or Planned (More will likely be added with time)
 - C#
 - .NET Core
