@@ -1,0 +1,3 @@
+Basic elements such as fire, ice, lightning, etc.
+
+Spell system - Limited use per battle like durabillity, or something more akin to more modern mana systems? Maybe even something like spell slots and levels from D&D?

@@ -1,0 +1,27 @@
+Name of Student: Joey Giunta
+ 
+Name of Project: TBD - Turn based rpg for now
+ 
+Project's Purpose or Goal: 
+ 
+                A game with the end goal of being a mix between "Fire Emblem"-esque turn based tactical rpg and roguelike elements such as randomized maps and perks that persist after losses, it is intended to provide a new twist on 2 well known genres
+ 
+List the absolute minimum features the project requires to meet this purpose or goal: 
+ 
+                A player character with customizable stats and classes, randomized enemies and a user friendly combat system
+ 
+What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to your track, and your language) will you use to create this MVP? List them all here. Be specific.
+ 
+                C#, Visual Studio Code, and git
+ 
+If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific.
+ 
+                A grid and movement system, visuals, randomized maps, items and inventory, perks and abilities additional characters to act as either allies or bosses/minibosses
+ 
+What additional tools, frameworks, libraries, APIs, or other resources will these additional features require?
+ 
+                Likely Unity 2d and the associated editor
+ 
+Is there anything else you'd like your instructor to know?
+ 
+                I am not entirely familiar with unity or what it requires, but I know it uses c# on some level, and I have a couple of friends who have offered to show me how to use it on our free time. I will likely take them up on that offer before I start implementing anything with it. This is also a project I intend on continuing work on beyond my time at Epicodus

@@ -1,0 +1,14 @@
+May 7th: No exact log was kept, however *at least* 5 hours were spent researching csharp game development. For example, this is one of many such resources: https://scottlilly.com/learn-c-by-building-a-simple-rpg-index/lesson-00-1-what-is-in-these-lessons/
+(Thanks again, Leilani! ^^)
+
+May 14th: 
+	8:30am to ~12pm - More time researching csharp game dev, along with 2d unity engine.
+	~1pm to ~6pm - Spoke and worked with a friend who works with unity for a living on how it works, what I should know, how to get started, etc. Many thanks to him
+	
+May 15th - 16th:
+	11pm to ~2-3am - Brainstormed ideas for different game and world elements, some of which were later transfered to the files found in the folder "Idea Whiteboard".
+	
+	Some ideas were inspired by the expected "Fire Emblem", however some came from other sources such as "The Legend of Zelda", "Paper Mario" and even "Resident Evil". Not all made it into my whiteboarding text files yet, and they are still only on paper.
+	
+	
+I was planning on getting to some actual programming this weekend, however that will have to wait until monday due to my spending time with loved ones in celebration of my Birthday.

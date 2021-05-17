@@ -1,0 +1,9 @@
+Tactical RPG in the same vein as Advanced Wars or Fire Emblem.
+
+Roguelike Elements? Still debating this with myself. Makes it harder to tell a cohesive story. Helps replayability and gameplay variety, but there are other ways to accomplish this, albeit not on the same scale
+
+Grid based movement with turn based gameplay.
+
+Hidden attributes, map elements, units? I would like to explore better fog of war than what I've seen in others of this kind. Maybe a scout class designed specifically for gathering info?
+	- Maybe different levels of f.o.w. depending on map/level? Extreme darkness or literal fog, for example.
+	- Items? Telescope, "scan spell", etc.?

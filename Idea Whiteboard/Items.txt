@@ -1,0 +1,5 @@
+Melee weapons - Swords, lances, axes, etc.
+Ranged weapons - Bows, some variants of melee weapons (throwing spears for example), early firearms(?)
+Armor variants? Unsure. Might leave this purely determined by unit class
+
+Items should keep a fairly believable style (no comically oversized swords!), however more magically based or technologically advanced equipment can push the boundries a bit more
