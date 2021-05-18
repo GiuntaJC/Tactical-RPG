@@ -1,4 +1,4 @@
-Total time spent working on project so far: 23.75 hours
+Total time spent working on project so far: 28.5 hours
 
 May 7th: (counting 5 hours on this, but there were probably closer to 9)
 	No exact log was kept, however *at least* 5 hours were spent researching csharp game development. For example, this is one of many such resources: https://scottlilly.com/learn-c-by-building-a-simple-rpg-index/lesson-00-1-what-is-in-these-lessons/
@@ -34,11 +34,16 @@ may 17th: (Total time: 6.25 hours)
 	2:45pm to 3:30pm -
 		research class and stat systems, and implement a prototype model with stats
 		
-	3:30 to 4:30 - 
+	3:30pm to 4:30pm - 
 		Read about RPG systems and implementing characters into a unity project
 		
-may 18th:
-	8:15 - 
+may 18th:(Total time: 4.75 hours)
+	8:15am - 
 		sign in
-	
-	
+		
+	8:15am to 12pm -
+		Testing applying stats and other properties to a game object
+		
+	1pm - 2pm
+		researched and practiced with scripts
+		
