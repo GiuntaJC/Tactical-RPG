@@ -1,4 +1,4 @@
-Total time spent working on project so far: 28.5 hours
+Total time spent working on project so far: 36+ hours
 
 May 7th: (counting 5 hours on this, but there were probably closer to 9)
 	No exact log was kept, however *at least* 5 hours were spent researching csharp game development. For example, this is one of many such resources: https://scottlilly.com/learn-c-by-building-a-simple-rpg-index/lesson-00-1-what-is-in-these-lessons/
@@ -48,4 +48,6 @@ may 18th:(Total time: 4.75 hours)
 		researched and practiced with scripts
 		
 may 19th: Sick day. Researched and prototyped here and there, but not enough to count hours
+
+may 23rd: 11am
 		
