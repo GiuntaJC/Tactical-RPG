@@ -2,7 +2,7 @@
 
 #### _Final Capstone project for Epicodus_
 
-Time spent so far: 28.5 hours (see Work Log.txt)
+Time spent so far: 36+ hours (see Work Log.txt)
 
 #### By _**Joey Giunta**_
 
